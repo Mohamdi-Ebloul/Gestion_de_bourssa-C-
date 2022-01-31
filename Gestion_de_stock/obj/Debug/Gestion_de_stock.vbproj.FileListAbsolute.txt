@@ -1,0 +1,15 @@
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\bin\Debug\Gestion_de_stock.exe.config
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\bin\Debug\Gestion_de_stock.exe
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\bin\Debug\Gestion_de_stock.pdb
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\bin\Debug\Gestion_de_stock.xml
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\obj\Debug\Gestion_de_stock.Resources.resources
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\obj\Debug\Gestion_de_stock.vbproj.GenerateResource.Cache
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\obj\Debug\Gestion_de_stock.exe
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\obj\Debug\Gestion_de_stock.xml
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\obj\Debug\Gestion_de_stock.pdb
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\obj\Debug\Gestion_de_stock.achat.resources
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\obj\Debug\Gestion_de_stock.client.resources
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\obj\Debug\Gestion_de_stock.user.resources
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\obj\Debug\Gestion_de_stock.log.resources
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\obj\Debug\Gestion_de_stock.acceil.resources
+C:\Users\med said elalem\Documents\Visual Studio 2012\Projects\DI3-2021\Gestion_de_stock\Gestion_de_stock\obj\Debug\Gestion_de_stock.voitures.resources
